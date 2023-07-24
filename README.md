@@ -1,4 +1,4 @@
-`# 🍳 Recipe Web Application 🥗
+# 🍳 Recipe Web Application 🥗
 
 Welcome to the Recipe Web Application! 🎉 This application allows you to create, explore, and save your favorite recipes. 🧁🍕🍲
 
