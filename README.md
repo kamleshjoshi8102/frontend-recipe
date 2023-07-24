@@ -1,6 +1,4 @@
-const fs = require('fs');
-
-const generatedReadme = `# 🍳 Recipe Web Application 🥗
+`# 🍳 Recipe Web Application 🥗
 
 Welcome to the Recipe Web Application! 🎉 This application allows you to create, explore, and save your favorite recipes. 🧁🍕🍲
 
@@ -54,5 +52,4 @@ We welcome contributions from everyone! If you have any bug fixes, new features,
 The Recipe Web Application is open-source software licensed under the [MIT License](LICENSE.md). Feel free to use, modify, and distribute the code to suit your needs. Happy cooking! 🎂🍔🍝
 
 ---
-
-
+ 
