@@ -7,7 +7,7 @@ Welcome to the Recipe Web Application! 🎉 This application allows you to creat
 - [Features](https://github.com/kamleshjoshi8102/frontend-recipe/blob/main/README.md#-features)
 - [Installation](https://github.com/kamleshjoshi8102/frontend-recipe/blob/main/README.md#%EF%B8%8F-installation)
 - [Usage](https://github.com/kamleshjoshi8102/frontend-recipe/blob/main/README.md#-usage)
-- #[images] ()
+- #[images](https://github.com/kamleshjoshi8102/frontend-recipe/blob/main/README.md#%EF%B8%8F-images)
 - [Contributing](https://github.com/kamleshjoshi8102/frontend-recipe/blob/main/README.md#-contributing)
 - [License](https://github.com/kamleshjoshi8102/frontend-recipe/blob/main/README.md#-license)
 
@@ -33,7 +33,11 @@ To get started with the Recipe Web Application, follow these simple steps:
 3. Launch the development server with \`npm start\`.
 
 ## 🖼️ Images
-https://github.com/kamleshjoshi8102/frontend-recipe/blob/main/public/ScreenShots/create-recipe.png 
+<img src="https://github.com/kamleshjoshi8102/frontend-recipe/blob/main/public/ScreenShots/homepage.png" alt="HomePage" style="max-width:100%;">
+<img src="https://github.com/kamleshjoshi8102/frontend-recipe/blob/main/public/ScreenShots/homepage2.png" alt="Home-page" style="max-width:100%;">
+<img src="https://github.com/kamleshjoshi8102/frontend-recipe/blob/main/public/ScreenShots/create-recipe.png" alt="Create-Recipe" style="max-width:100%;">
+<img src="https://github.com/kamleshjoshi8102/frontend-recipe/blob/main/public/ScreenShots/saved-recipe.png" alt="Saved-Recipe" style="max-width:100%;">
+
 
 ## 📖 Usage
 Once the application is up and running, you can:
