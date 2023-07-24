@@ -7,7 +7,7 @@ Welcome to the Recipe Web Application! 🎉 This application allows you to creat
 - [Features](https://github.com/kamleshjoshi8102/frontend-recipe/blob/main/README.md#-features)
 - [Installation](https://github.com/kamleshjoshi8102/frontend-recipe/blob/main/README.md#%EF%B8%8F-installation)
 - [Usage](https://github.com/kamleshjoshi8102/frontend-recipe/blob/main/README.md#-usage)
-- #[images](https://github.com/kamleshjoshi8102/frontend-recipe/blob/main/README.md#%EF%B8%8F-images)
+- [images](https://github.com/kamleshjoshi8102/frontend-recipe/blob/main/README.md#%EF%B8%8F-images)
 - [Contributing](https://github.com/kamleshjoshi8102/frontend-recipe/blob/main/README.md#-contributing)
 - [License](https://github.com/kamleshjoshi8102/frontend-recipe/blob/main/README.md#-license)
 
