@@ -3,12 +3,12 @@
 Welcome to the Recipe Web Application! 🎉 This application allows you to create, explore, and save your favorite recipes. 🧁🍕🍲
 
 ## 📜 Table of Contents
-- [Introduction](#introduction)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+- [Introduction](https://github.com/kamleshjoshi8102/frontend-recipe/blob/main/README.md#-introduction)
+- [Features](https://github.com/kamleshjoshi8102/frontend-recipe/blob/main/README.md#-features)
+- [Installation](https://github.com/kamleshjoshi8102/frontend-recipe/blob/main/README.md#%EF%B8%8F-installation)
+- [Usage](https://github.com/kamleshjoshi8102/frontend-recipe/blob/main/README.md#-usage)
+- [Contributing](https://github.com/kamleshjoshi8102/frontend-recipe/blob/main/README.md#-contributing)
+- [License](https://github.com/kamleshjoshi8102/frontend-recipe/blob/main/README.md#-license)
 
 ## 📝 Introduction
 The Recipe Web Application is a delightful platform for all the passionate foodies out there! Whether you're a seasoned chef 🧑‍🍳 or a home cook, this app is designed to cater to all your culinary adventures. 🍽️
